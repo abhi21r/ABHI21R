@@ -43,10 +43,10 @@
   <a href="https://leetcode.com/u/Abhi2127/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=F9DC5C&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="leetcode logo" />
   </a>
-  <a href="https://www.hackerrank.com/profile/pprl735757" target="_blank">
+  <a href="https://www.hackerrank.com/profile/abhirajrnc21" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/pprl735757/" target="_blank">
+  <a href="https://www.geeksforgeeks.org/user/abhirajeqcj/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforgeeks&label=&color=4CAF50&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gfg logo" />
   </a>
 
