@@ -11,9 +11,6 @@
 - 💬 Ask me about anything related to web development or competitive coding.
 - ⚡ Fun fact: I am a well-versed and enthusiastic learner.
 
-<img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
-
-
 ## Languages and Tools:
 <div align="left">
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo" /></code>
@@ -63,6 +60,7 @@
 </div>
 
 <br>
+<img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
 
 ![](https://komarev.com/ghpvc/?username=abhi21r)
 
