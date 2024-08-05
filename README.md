@@ -18,8 +18,7 @@
 <div align="left">
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo" /></code>
   <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="aws logo" /></code>
-  <img width="12" />
+ 
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="30" alt="bootstrap logo" /></code>
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" /></code>
@@ -62,8 +61,7 @@
   <img width="12" />
   <code><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="30" alt="seaborn logo" /></code>
   <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo" /></code>
-  <img width="12" />
+  
 </div>
 <br>
 
@@ -74,7 +72,6 @@
 
 ## Leetcode
 <div style="display: flex; align-items: center;">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Abhi2127&animated=true" alt="LeetCode Badges" style="margin-right: 10px;"/>
   <img src="https://leetcard.jacoblin.cool/Abhi2127?ext=contest&theme=lapor" alt="Leetcode Stats"/>
 </div>
 
