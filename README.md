@@ -56,10 +56,10 @@
 </div>
 <br>
 
-![](https://komarev.com/ghpvc/?username=Rpatel9675)
+![](https://komarev.com/ghpvc/?username=abhi21r)
 
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rpatel9675" alt="Rpatel9675" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhi21r" alt="abhi21r" /></a> </p>
 
 ## Leetcode
 <div style="display: flex; align-items: center;">
@@ -69,10 +69,10 @@
 
 ## My Journey
 <div align="center">
-  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=rpatel9675&show_icons=true&theme=dracula">
-  <img width="385px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpatel9675&layout=compact&theme=dracula" />
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=rpatel9675&theme=dracula">
-  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=rpatel9675&theme=dracula" />
+  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=abhi21r&show_icons=true&theme=dracula">
+  <img width="385px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi21r&layout=compact&theme=dracula" />
+  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=abhi21r&theme=dracula">
+  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi21r&theme=dracula" />
 </div>
 
 ## Connect with me:
