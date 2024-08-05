@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Rocky Patel 👋</h1>
+<h1 align="center">Hi, I'm Abhishek Raz 👋</h1>
 <h3 align="center">Aspiring Full Stack Developer from India</h3>
 
 ❤️ I prefer React on frontend and Node.js with MySQL and/or MongoDB on backend.                  
