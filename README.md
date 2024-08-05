@@ -1,25 +1,18 @@
 
-<h1 align="center">Hi, I'm Abhishek Raz 👋</h1>
-<h3 align="center">Aspiring Full Stack Developer from India</h3>
-
-❤️ I prefer React on frontend and Node.js with MySQL and/or MongoDB on backend.                  
-🤔 I'm currently working on a robotics hand gripper using a 3D printer.        
-✨ I study: React, Node.js, MongoDB, and web development technologies.
+<h1 align="center">Hi, I'm Abhishek Raj 👋</h1>
+<h3 align="center">Aspiring Developer and Machine Learning Enthusiast from India</h3>
+               
+🤔 I'm currently working on Optimized Data Orchestration Framework Application For All Cloud Deployment Models Using Aneka.        
+✨ I study: Machine learning,software development and web development technologies.
 
 ## About me:
-- 🌱 I’m currently learning more about advanced React.
+- 🌱 I’m currently learning more about cloud technologies.
 - 👯 I’m looking to collaborate on web development projects and startups.
 - 💬 Ask me about anything related to web development or competitive coding.
-- ⚡ Fun fact: I have a 1750 rating on LeetCode and 5-star in C++ on HackerRank.
+- ⚡ Fun fact: I am a well-versed and enthusiastic learner.
 
 <img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
 
-## My stack:
-- 3+ years of experience in HTML, CSS, and JavaScript.
-- 2+ years of experience in MongoDB and MySQL.
-- 1+ years of experience in React and Node.js.
-- 🏆 Experienced in developing APIs, RESTful services, and full-stack web applications.
-- HTML/CSS, JavaScript, React, Node.js, Express.js, MongoDB, MySQL, Git, Docker, CI/CD.
 
 ## Languages and Tools:
 <div align="left">
