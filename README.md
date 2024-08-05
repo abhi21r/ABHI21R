@@ -18,7 +18,8 @@
 <div align="left">
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo" /></code>
   <img width="12" />
- 
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="aws logo" /></code>
+  <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="30" alt="bootstrap logo" /></code>
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" /></code>
@@ -61,8 +62,10 @@
   <img width="12" />
   <code><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="30" alt="seaborn logo" /></code>
   <img width="12" />
-  
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo" /></code>
+  <img width="12" />
 </div>
+
 <br>
 
 ![](https://komarev.com/ghpvc/?username=abhi21r)
