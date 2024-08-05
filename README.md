@@ -5,6 +5,9 @@
 🤔 I'm currently working on Optimized Data Orchestration Framework Application For All Cloud Deployment Models Using Aneka.        
 ✨ I study: Machine learning,software development and web development technologies.
 
+<img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
+
+
 ## About me:
 - 🌱 I’m currently learning more about cloud technologies.
 - 👯 I’m looking to collaborate on web development projects and startups.
@@ -60,7 +63,6 @@
 </div>
 
 <br>
-<img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
 
 ![](https://komarev.com/ghpvc/?username=abhi21r)
 
