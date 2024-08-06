@@ -69,10 +69,7 @@
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhi21r" alt="abhi21r" /></a> </p>
 
-## Leetcode
-<div style="display: flex; align-items: center;">
-  <img src="https://leetcard.jacoblin.cool/Abhi2127?ext=contest&theme=lapor" alt="Leetcode Stats"/>
-</div>
+
 
 ## My Journey
 <div align="center">
